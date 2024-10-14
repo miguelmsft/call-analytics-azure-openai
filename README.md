@@ -20,7 +20,7 @@ cd call-analytics-azure-openai
  ```
 2. If you haven't already, go to https://ai.azure.com/ and create a deployment for a `gpt-4o` model version `2024-08-06`
 
-![gpt-4o deployment] (images/gpt4o-deployment.png)
+<img src="images/gpt4o-deployment.png" alt="Initial image" width="250"/>
 
 
 Create a .env file in the root directory with your Azure OpenAI credentials. 
