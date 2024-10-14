@@ -1,0 +1,12 @@
+{
+  "summary": "John Doe called Contoso Outdoors because he received a jacket with a broken zipper. The agent, Sarah, apologized for the inconvenience and arranged for a new jacket to be shipped, along with a return label for the defective one. Sarah assured John that the replacement would arrive in 3-4 business days, ensuring it would be in time for his trip.",
+  "service": "Jacket purchase from Contoso Outdoors",
+  "organizations": [
+    "Contoso Outdoors"
+  ],
+  "sentimentStart": "Frustrated",
+  "sentimentEnd": "Relieved and grateful",
+  "issues": "Received a jacket with a broken zipper",
+  "resolution": "Replacement jacket will be shipped with expedited shipping and a return label for the defective one.",
+  "feedback": "Caller expressed relief and gratitude for the efficient handling of the issue."
+}

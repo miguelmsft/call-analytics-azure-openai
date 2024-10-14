@@ -1,0 +1,27 @@
+------------------------------------BEGIN TRANSCRIPT------------------------------------
+
+16:07:23.529 - AGENT: Thank you for calling Contoso Outdoors. My name is Sarah. How can I assist you today? [Open] {} {} {} [[durationMs=5220, kryptonDurationMs=5300, initialSilenceMs=180, tempo=3.5, snrEstimate=32.0, level=9200.0, initialEnergy=-65.8, finalEnergy=-64.4, meanEnergy=150.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:07:28.638 - CALLER: Hi, Sarah. This is John Doe. I'm really frustrated. I ordered a jacket, and it arrived with a broken zipper. [Frustration] {} {} {} [[durationMs=6300, kryptonDurationMs=7200, initialSilenceMs=3200, tempo=2.0, snrEstimate=32.0, level=25500.0, initialEnergy=-58.6, finalEnergy=-15.8, meanEnergy=114.5, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:07:34.966 - AGENT: I'm sorry to hear that, John. Could you please provide me with your order number so I can look into this for you? [Request Auth] {} {} {} [[durationMs=5280, kryptonDurationMs=5500, initialSilenceMs=240, tempo=2.85, snrEstimate=35.0, level=6600.0, initialEnergy=-67.9, finalEnergy=-69.4, meanEnergy=122.6, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:07:42.263 - CALLER: Sure, it's 123456. I was really looking forward to using it on my trip next week. [Provide Auth] {} {} {} [[durationMs=7350, kryptonDurationMs=7300, initialSilenceMs=60, tempo=1.24, snrEstimate=31.0, level=12200.0, initialEnergy=-62.8, finalEnergy=-59.2, meanEnergy=140.3, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:07:48.121 - AGENT: Let me check the details of your order. One moment, please. [Order Lookup] {} {} {} [[durationMs=5240, kryptonDurationMs=5700, initialSilenceMs=560, tempo=0.97, snrEstimate=25.0, level=10200.0, initialEnergy=-62.3, finalEnergy=-64.3, meanEnergy=140.9, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:07:52.231 - AGENT: I see the issue. I apologize for the inconvenience. I’ll arrange for a new jacket to be shipped to you. We'll also send a return label for the defective one. [Resolution Proposal] {} {} {} [[durationMs=5260, kryptonDurationMs=5500, initialSilenceMs=240, tempo=2.85, snrEstimate=35.0, level=6600.0, initialEnergy=-67.9, finalEnergy=-69.4, meanEnergy=122.6, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:08:01.325 - CALLER: Thank you. Will the replacement arrive before my trip? I really need it. [Concern] {} {} {} [[durationMs=4100, kryptonDurationMs=4200, initialSilenceMs=200, tempo=1.5, snrEstimate=30.0, level=12000.0, initialEnergy=-60.0, finalEnergy=-62.0, meanEnergy=130.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:08:06.529 - AGENT: I'll expedite the shipping to ensure it arrives in time. You should receive it in 3-4 business days. [Reassurance] {} {} {} [[durationMs=4000, kryptonDurationMs=4200, initialSilenceMs=200, tempo=2.5, snrEstimate=33.0, level=9000.0, initialEnergy=-66.0, finalEnergy=-68.0, meanEnergy=125.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:08:10.763 - CALLER: That's a relief. I really appreciate your help, Sarah. Thank you for handling this so efficiently. [Gratitude] {} {} {} [[durationMs=5000, kryptonDurationMs=5200, initialSilenceMs=200, tempo=1.2, snrEstimate=28.0, level=11000.0, initialEnergy=-64.0, finalEnergy=-65.0, meanEnergy=135.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:08:16.325 - AGENT: You're welcome, John. Is there anything else I can assist you with today? [Offer Further Assistance] {} {} {} [[durationMs=4000, kryptonDurationMs=4200, initialSilenceMs=200, tempo=3.0, snrEstimate=32.0, level=8000.0, initialEnergy=-68.0, finalEnergy=-70.0, meanEnergy=120.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:08:20.763 - CALLER: No, that's all. Thanks again. [Close] {} {} {} [[durationMs=3000, kryptonDurationMs=3300, initialSilenceMs=200, tempo=1.2, snrEstimate=28.0, level=11000.0, initialEnergy=-64.0, finalEnergy=-65.0, meanEnergy=135.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+16:08:24.325 - AGENT: Have a great day, John! [Farewell] {} {} {} [[durationMs=2000, kryptonDurationMs=2300, initialSilenceMs=200, tempo=3.0, snrEstimate=32.0, level=8000.0, initialEnergy=-68.0, finalEnergy=-70.0, meanEnergy=120.0, Level:unknown - Energy:unknown - Tempo:unknown]]
+
+------------------------------------END TRANSCRIPT------------------------------------
