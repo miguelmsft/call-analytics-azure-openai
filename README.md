@@ -15,8 +15,8 @@ Outputs results in organized JSON files within the results directory.
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/call-transcript-analyzer.git  
-cd CALL-ANALYTICS-AZURE-OPENAI  
+git clone https://github.com/miguelmsft/call-analytics-azure-openai.git 
+cd call-analytics-azure-openai  
  ```
 2. Create a .env file in the root directory with your Azure OpenAI credentials:
 
